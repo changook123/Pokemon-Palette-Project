@@ -1,0 +1,3617 @@
+[
+  {
+    "id": 252,
+    "name": "나무지기",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spAtk": 65,
+      "spDef": 55,
+      "speed": 70
+    },
+    "abilities": [
+      "overgrow",
+      "unburden"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 253,
+    "name": "나무돌이",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 45,
+      "spAtk": 85,
+      "spDef": 65,
+      "speed": 95
+    },
+    "abilities": [
+      "overgrow",
+      "unburden"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 254,
+    "name": "나무킹",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 65,
+      "spAtk": 105,
+      "spDef": 85,
+      "speed": 120
+    },
+    "abilities": [
+      "overgrow",
+      "unburden"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 255,
+    "name": "아차모",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 40,
+      "spAtk": 70,
+      "spDef": 50,
+      "speed": 45
+    },
+    "abilities": [
+      "blaze",
+      "speed-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 256,
+    "name": "영치코",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 60,
+      "spAtk": 85,
+      "spDef": 60,
+      "speed": 55
+    },
+    "abilities": [
+      "blaze",
+      "speed-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 257,
+    "name": "번치코",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 70,
+      "spAtk": 110,
+      "spDef": 70,
+      "speed": 80
+    },
+    "abilities": [
+      "blaze",
+      "speed-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 258,
+    "name": "물짱이",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 50,
+      "spAtk": 50,
+      "spDef": 50,
+      "speed": 40
+    },
+    "abilities": [
+      "torrent",
+      "damp"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 259,
+    "name": "늪짱이",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 70,
+      "spAtk": 60,
+      "spDef": 70,
+      "speed": 50
+    },
+    "abilities": [
+      "torrent",
+      "damp"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 260,
+    "name": "대짱이",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 110,
+      "def": 90,
+      "spAtk": 85,
+      "spDef": 90,
+      "speed": 60
+    },
+    "abilities": [
+      "torrent",
+      "damp"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 261,
+    "name": "포챠나",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 35,
+      "spAtk": 30,
+      "spDef": 30,
+      "speed": 35
+    },
+    "abilities": [
+      "run-away",
+      "quick-feet",
+      "rattled"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 262,
+    "name": "그라에나",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 70,
+      "spAtk": 60,
+      "spDef": 60,
+      "speed": 70
+    },
+    "abilities": [
+      "intimidate",
+      "quick-feet",
+      "moxie"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 263,
+    "name": "지그제구리",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 30,
+      "def": 41,
+      "spAtk": 30,
+      "spDef": 41,
+      "speed": 60
+    },
+    "abilities": [
+      "pickup",
+      "gluttony",
+      "quick-feet"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 264,
+    "name": "직구리",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 70,
+      "def": 61,
+      "spAtk": 50,
+      "spDef": 61,
+      "speed": 100
+    },
+    "abilities": [
+      "pickup",
+      "gluttony",
+      "quick-feet"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 265,
+    "name": "개무소",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 45,
+      "def": 35,
+      "spAtk": 20,
+      "spDef": 30,
+      "speed": 20
+    },
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 266,
+    "name": "실쿤",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 35,
+      "def": 55,
+      "spAtk": 25,
+      "spDef": 25,
+      "speed": 15
+    },
+    "abilities": [
+      "shed-skin"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 267,
+    "name": "뷰티플라이",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 50,
+      "spAtk": 100,
+      "spDef": 50,
+      "speed": 65
+    },
+    "abilities": [
+      "swarm",
+      "rivalry"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 268,
+    "name": "카스쿤",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 35,
+      "def": 55,
+      "spAtk": 25,
+      "spDef": 25,
+      "speed": 15
+    },
+    "abilities": [
+      "shed-skin"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 269,
+    "name": "독케일",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 70,
+      "spAtk": 50,
+      "spDef": 90,
+      "speed": 65
+    },
+    "abilities": [
+      "shield-dust",
+      "compound-eyes"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 270,
+    "name": "연꽃몬",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 30,
+      "spAtk": 40,
+      "spDef": 50,
+      "speed": 30
+    },
+    "abilities": [
+      "swift-swim",
+      "rain-dish",
+      "own-tempo"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 271,
+    "name": "로토스",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 50,
+      "spAtk": 60,
+      "spDef": 70,
+      "speed": 50
+    },
+    "abilities": [
+      "swift-swim",
+      "rain-dish",
+      "own-tempo"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 272,
+    "name": "로파파",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 70,
+      "spAtk": 90,
+      "spDef": 100,
+      "speed": 70
+    },
+    "abilities": [
+      "swift-swim",
+      "rain-dish",
+      "own-tempo"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 273,
+    "name": "도토링",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 50,
+      "spAtk": 30,
+      "spDef": 30,
+      "speed": 30
+    },
+    "abilities": [
+      "chlorophyll",
+      "early-bird",
+      "pickpocket"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 274,
+    "name": "잎새코",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 40,
+      "spAtk": 60,
+      "spDef": 40,
+      "speed": 60
+    },
+    "abilities": [
+      "chlorophyll",
+      "early-bird",
+      "pickpocket"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 275,
+    "name": "다탱구",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 60,
+      "spAtk": 90,
+      "spDef": 60,
+      "speed": 80
+    },
+    "abilities": [
+      "chlorophyll",
+      "wind-rider",
+      "pickpocket"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 276,
+    "name": "테일로",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 30,
+      "spAtk": 30,
+      "spDef": 30,
+      "speed": 85
+    },
+    "abilities": [
+      "guts",
+      "scrappy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 277,
+    "name": "스왈로",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 60,
+      "spAtk": 75,
+      "spDef": 50,
+      "speed": 125
+    },
+    "abilities": [
+      "guts",
+      "scrappy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 278,
+    "name": "갈모매",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 30,
+      "spAtk": 55,
+      "spDef": 30,
+      "speed": 85
+    },
+    "abilities": [
+      "keen-eye",
+      "hydration",
+      "rain-dish"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 279,
+    "name": "패리퍼",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 100,
+      "spAtk": 95,
+      "spDef": 70,
+      "speed": 65
+    },
+    "abilities": [
+      "keen-eye",
+      "drizzle",
+      "rain-dish"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 280,
+    "name": "랄토스",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 28,
+      "atk": 25,
+      "def": 25,
+      "spAtk": 45,
+      "spDef": 35,
+      "speed": 40
+    },
+    "abilities": [
+      "synchronize",
+      "trace",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 281,
+    "name": "킬리아",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 35,
+      "def": 35,
+      "spAtk": 65,
+      "spDef": 55,
+      "speed": 50
+    },
+    "abilities": [
+      "synchronize",
+      "trace",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 282,
+    "name": "가디안",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 65,
+      "def": 65,
+      "spAtk": 125,
+      "spDef": 115,
+      "speed": 80
+    },
+    "abilities": [
+      "synchronize",
+      "trace",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 283,
+    "name": "비구술",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 32,
+      "spAtk": 50,
+      "spDef": 52,
+      "speed": 65
+    },
+    "abilities": [
+      "swift-swim",
+      "rain-dish"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 284,
+    "name": "비나방",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 60,
+      "def": 62,
+      "spAtk": 100,
+      "spDef": 82,
+      "speed": 80
+    },
+    "abilities": [
+      "intimidate",
+      "unnerve"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 285,
+    "name": "버섯꼬",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 60,
+      "spAtk": 40,
+      "spDef": 60,
+      "speed": 35
+    },
+    "abilities": [
+      "effect-spore",
+      "poison-heal",
+      "quick-feet"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 286,
+    "name": "버섯모",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 130,
+      "def": 80,
+      "spAtk": 60,
+      "spDef": 60,
+      "speed": 70
+    },
+    "abilities": [
+      "effect-spore",
+      "poison-heal",
+      "technician"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 287,
+    "name": "게을로",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spAtk": 35,
+      "spDef": 35,
+      "speed": 30
+    },
+    "abilities": [
+      "truant"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 288,
+    "name": "발바로",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spAtk": 55,
+      "spDef": 55,
+      "speed": 90
+    },
+    "abilities": [
+      "vital-spirit"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 289,
+    "name": "게을킹",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 150,
+      "atk": 160,
+      "def": 100,
+      "spAtk": 95,
+      "spDef": 65,
+      "speed": 100
+    },
+    "abilities": [
+      "truant"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 290,
+    "name": "토중몬",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 31,
+      "atk": 45,
+      "def": 90,
+      "spAtk": 30,
+      "spDef": 30,
+      "speed": 40
+    },
+    "abilities": [
+      "compound-eyes",
+      "run-away"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 291,
+    "name": "아이스크",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "atk": 90,
+      "def": 45,
+      "spAtk": 50,
+      "spDef": 50,
+      "speed": 160
+    },
+    "abilities": [
+      "speed-boost",
+      "infiltrator"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 292,
+    "name": "껍질몬",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 1,
+      "atk": 90,
+      "def": 45,
+      "spAtk": 30,
+      "spDef": 30,
+      "speed": 40
+    },
+    "abilities": [
+      "wonder-guard"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 293,
+    "name": "소곤룡",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 51,
+      "def": 23,
+      "spAtk": 51,
+      "spDef": 23,
+      "speed": 28
+    },
+    "abilities": [
+      "soundproof",
+      "rattled"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 294,
+    "name": "노공룡",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 84,
+      "atk": 71,
+      "def": 43,
+      "spAtk": 71,
+      "spDef": 43,
+      "speed": 48
+    },
+    "abilities": [
+      "soundproof",
+      "scrappy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 295,
+    "name": "폭음룡",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 104,
+      "atk": 91,
+      "def": 63,
+      "spAtk": 91,
+      "spDef": 73,
+      "speed": 68
+    },
+    "abilities": [
+      "soundproof",
+      "scrappy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 296,
+    "name": "마크탕",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 60,
+      "def": 30,
+      "spAtk": 20,
+      "spDef": 30,
+      "speed": 25
+    },
+    "abilities": [
+      "thick-fat",
+      "guts",
+      "sheer-force"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 297,
+    "name": "하리뭉",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 144,
+      "atk": 120,
+      "def": 60,
+      "spAtk": 40,
+      "spDef": 60,
+      "speed": 50
+    },
+    "abilities": [
+      "thick-fat",
+      "guts",
+      "sheer-force"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 298,
+    "name": "루리리",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 20,
+      "def": 40,
+      "spAtk": 20,
+      "spDef": 40,
+      "speed": 20
+    },
+    "abilities": [
+      "thick-fat",
+      "huge-power",
+      "sap-sipper"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 299,
+    "name": "코코파스",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 45,
+      "def": 135,
+      "spAtk": 45,
+      "spDef": 90,
+      "speed": 30
+    },
+    "abilities": [
+      "sturdy",
+      "magnet-pull",
+      "sand-force"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 300,
+    "name": "에나비",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 45,
+      "def": 45,
+      "spAtk": 35,
+      "spDef": 35,
+      "speed": 50
+    },
+    "abilities": [
+      "cute-charm",
+      "normalize",
+      "wonder-skin"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 301,
+    "name": "델케티",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 65,
+      "spAtk": 55,
+      "spDef": 55,
+      "speed": 90
+    },
+    "abilities": [
+      "cute-charm",
+      "normalize",
+      "wonder-skin"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 302,
+    "name": "깜까미",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 75,
+      "spAtk": 65,
+      "spDef": 65,
+      "speed": 50
+    },
+    "abilities": [
+      "keen-eye",
+      "stall",
+      "prankster"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 303,
+    "name": "입치트",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 85,
+      "spAtk": 55,
+      "spDef": 55,
+      "speed": 50
+    },
+    "abilities": [
+      "hyper-cutter",
+      "intimidate",
+      "sheer-force"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 304,
+    "name": "가보리",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 100,
+      "spAtk": 40,
+      "spDef": 40,
+      "speed": 30
+    },
+    "abilities": [
+      "sturdy",
+      "rock-head",
+      "heavy-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 305,
+    "name": "갱도라",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 140,
+      "spAtk": 50,
+      "spDef": 50,
+      "speed": 40
+    },
+    "abilities": [
+      "sturdy",
+      "rock-head",
+      "heavy-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 306,
+    "name": "보스로라",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 180,
+      "spAtk": 60,
+      "spDef": 60,
+      "speed": 50
+    },
+    "abilities": [
+      "sturdy",
+      "rock-head",
+      "heavy-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 307,
+    "name": "요가랑",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 40,
+      "def": 55,
+      "spAtk": 40,
+      "spDef": 55,
+      "speed": 60
+    },
+    "abilities": [
+      "pure-power",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 308,
+    "name": "요가램",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 75,
+      "spAtk": 60,
+      "spDef": 75,
+      "speed": 80
+    },
+    "abilities": [
+      "pure-power",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 309,
+    "name": "썬더라이",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spAtk": 65,
+      "spDef": 40,
+      "speed": 65
+    },
+    "abilities": [
+      "static",
+      "lightning-rod",
+      "minus"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 310,
+    "name": "썬더볼트",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 75,
+      "def": 60,
+      "spAtk": 105,
+      "spDef": 60,
+      "speed": 105
+    },
+    "abilities": [
+      "static",
+      "lightning-rod",
+      "minus"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 311,
+    "name": "플러시",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 40,
+      "spAtk": 85,
+      "spDef": 75,
+      "speed": 95
+    },
+    "abilities": [
+      "plus",
+      "lightning-rod"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 312,
+    "name": "마이농",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 50,
+      "spAtk": 75,
+      "spDef": 85,
+      "speed": 95
+    },
+    "abilities": [
+      "minus",
+      "volt-absorb"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 313,
+    "name": "볼비트",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 73,
+      "def": 75,
+      "spAtk": 47,
+      "spDef": 85,
+      "speed": 85
+    },
+    "abilities": [
+      "illuminate",
+      "swarm",
+      "prankster"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 314,
+    "name": "네오비트",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 47,
+      "def": 75,
+      "spAtk": 73,
+      "spDef": 85,
+      "speed": 85
+    },
+    "abilities": [
+      "oblivious",
+      "tinted-lens",
+      "prankster"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 315,
+    "name": "로젤리아",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 60,
+      "def": 45,
+      "spAtk": 100,
+      "spDef": 80,
+      "speed": 65
+    },
+    "abilities": [
+      "natural-cure",
+      "poison-point",
+      "leaf-guard"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 316,
+    "name": "꼴깍몬",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 43,
+      "def": 53,
+      "spAtk": 43,
+      "spDef": 53,
+      "speed": 40
+    },
+    "abilities": [
+      "liquid-ooze",
+      "sticky-hold",
+      "gluttony"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 317,
+    "name": "꿀꺽몬",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 73,
+      "def": 83,
+      "spAtk": 73,
+      "spDef": 83,
+      "speed": 55
+    },
+    "abilities": [
+      "liquid-ooze",
+      "sticky-hold",
+      "gluttony"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 318,
+    "name": "샤프니아",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 90,
+      "def": 20,
+      "spAtk": 65,
+      "spDef": 20,
+      "speed": 65
+    },
+    "abilities": [
+      "rough-skin",
+      "speed-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 319,
+    "name": "샤크니아",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 120,
+      "def": 40,
+      "spAtk": 95,
+      "spDef": 40,
+      "speed": 95
+    },
+    "abilities": [
+      "rough-skin",
+      "speed-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 320,
+    "name": "고래왕자",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "atk": 70,
+      "def": 35,
+      "spAtk": 70,
+      "spDef": 35,
+      "speed": 60
+    },
+    "abilities": [
+      "water-veil",
+      "oblivious",
+      "pressure"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 321,
+    "name": "고래왕",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 170,
+      "atk": 90,
+      "def": 45,
+      "spAtk": 90,
+      "spDef": 45,
+      "speed": 60
+    },
+    "abilities": [
+      "water-veil",
+      "oblivious",
+      "pressure"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 322,
+    "name": "둔타",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 40,
+      "spAtk": 65,
+      "spDef": 45,
+      "speed": 35
+    },
+    "abilities": [
+      "oblivious",
+      "simple",
+      "own-tempo"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 323,
+    "name": "폭타",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 100,
+      "def": 70,
+      "spAtk": 105,
+      "spDef": 75,
+      "speed": 40
+    },
+    "abilities": [
+      "magma-armor",
+      "solid-rock",
+      "anger-point"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 324,
+    "name": "코터스",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 140,
+      "spAtk": 85,
+      "spDef": 70,
+      "speed": 20
+    },
+    "abilities": [
+      "white-smoke",
+      "drought",
+      "shell-armor"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 325,
+    "name": "피그점프",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 25,
+      "def": 35,
+      "spAtk": 70,
+      "spDef": 80,
+      "speed": 60
+    },
+    "abilities": [
+      "thick-fat",
+      "own-tempo",
+      "gluttony"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 326,
+    "name": "피그킹",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 45,
+      "def": 65,
+      "spAtk": 90,
+      "spDef": 110,
+      "speed": 80
+    },
+    "abilities": [
+      "thick-fat",
+      "own-tempo",
+      "gluttony"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 327,
+    "name": "얼루기",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spAtk": 60,
+      "spDef": 60,
+      "speed": 60
+    },
+    "abilities": [
+      "own-tempo",
+      "tangled-feet",
+      "contrary"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 328,
+    "name": "톱치",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 100,
+      "def": 45,
+      "spAtk": 45,
+      "spDef": 45,
+      "speed": 10
+    },
+    "abilities": [
+      "hyper-cutter",
+      "arena-trap",
+      "sheer-force"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 329,
+    "name": "비브라바",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 50,
+      "spAtk": 50,
+      "spDef": 50,
+      "speed": 70
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 330,
+    "name": "플라이곤",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 80,
+      "spAtk": 80,
+      "spDef": 80,
+      "speed": 100
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 331,
+    "name": "선인왕",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 40,
+      "spAtk": 85,
+      "spDef": 40,
+      "speed": 35
+    },
+    "abilities": [
+      "sand-veil",
+      "water-absorb"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 332,
+    "name": "밤선인",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 115,
+      "def": 60,
+      "spAtk": 115,
+      "spDef": 60,
+      "speed": 55
+    },
+    "abilities": [
+      "sand-veil",
+      "water-absorb"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 333,
+    "name": "파비코",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 40,
+      "def": 60,
+      "spAtk": 40,
+      "spDef": 75,
+      "speed": 50
+    },
+    "abilities": [
+      "natural-cure",
+      "cloud-nine"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 334,
+    "name": "파비코리",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 70,
+      "def": 90,
+      "spAtk": 70,
+      "spDef": 105,
+      "speed": 80
+    },
+    "abilities": [
+      "natural-cure",
+      "cloud-nine"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 335,
+    "name": "쟝고",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 115,
+      "def": 60,
+      "spAtk": 60,
+      "spDef": 60,
+      "speed": 90
+    },
+    "abilities": [
+      "immunity",
+      "toxic-boost"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 336,
+    "name": "세비퍼",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 100,
+      "def": 60,
+      "spAtk": 100,
+      "spDef": 60,
+      "speed": 65
+    },
+    "abilities": [
+      "shed-skin",
+      "infiltrator"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 337,
+    "name": "루나톤",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 55,
+      "def": 65,
+      "spAtk": 95,
+      "spDef": 85,
+      "speed": 70
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 338,
+    "name": "솔록",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 95,
+      "def": 85,
+      "spAtk": 55,
+      "spDef": 65,
+      "speed": 70
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 339,
+    "name": "미꾸리",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 48,
+      "def": 43,
+      "spAtk": 46,
+      "spDef": 41,
+      "speed": 60
+    },
+    "abilities": [
+      "oblivious",
+      "anticipation",
+      "hydration"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 340,
+    "name": "메깅",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 78,
+      "def": 73,
+      "spAtk": 76,
+      "spDef": 71,
+      "speed": 60
+    },
+    "abilities": [
+      "oblivious",
+      "anticipation",
+      "hydration"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 341,
+    "name": "가재군",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 43,
+      "atk": 80,
+      "def": 65,
+      "spAtk": 50,
+      "spDef": 35,
+      "speed": 35
+    },
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "adaptability"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 342,
+    "name": "가재장군",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "atk": 120,
+      "def": 85,
+      "spAtk": 90,
+      "spDef": 55,
+      "speed": 55
+    },
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "adaptability"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 343,
+    "name": "오뚝군",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 55,
+      "spAtk": 40,
+      "spDef": 70,
+      "speed": 55
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 344,
+    "name": "점토도리",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 105,
+      "spAtk": 70,
+      "spDef": 120,
+      "speed": 75
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 345,
+    "name": "릴링",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 66,
+      "atk": 41,
+      "def": 77,
+      "spAtk": 61,
+      "spDef": 87,
+      "speed": 23
+    },
+    "abilities": [
+      "suction-cups",
+      "storm-drain"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 346,
+    "name": "릴리요",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 86,
+      "atk": 81,
+      "def": 97,
+      "spAtk": 81,
+      "spDef": 107,
+      "speed": 43
+    },
+    "abilities": [
+      "suction-cups",
+      "storm-drain"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 347,
+    "name": "아노딥스",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 95,
+      "def": 50,
+      "spAtk": 40,
+      "spDef": 50,
+      "speed": 75
+    },
+    "abilities": [
+      "battle-armor",
+      "swift-swim"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 348,
+    "name": "아말도",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 100,
+      "spAtk": 70,
+      "spDef": 80,
+      "speed": 45
+    },
+    "abilities": [
+      "battle-armor",
+      "swift-swim"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 349,
+    "name": "빈티나",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 15,
+      "def": 20,
+      "spAtk": 10,
+      "spDef": 55,
+      "speed": 80
+    },
+    "abilities": [
+      "swift-swim",
+      "oblivious",
+      "adaptability"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 350,
+    "name": "밀로틱",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 60,
+      "def": 79,
+      "spAtk": 100,
+      "spDef": 125,
+      "speed": 81
+    },
+    "abilities": [
+      "marvel-scale",
+      "competitive",
+      "cute-charm"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 351,
+    "name": "캐스퐁",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 70,
+      "spAtk": 70,
+      "spDef": 70,
+      "speed": 70
+    },
+    "abilities": [
+      "forecast"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 352,
+    "name": "켈리몬",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 70,
+      "spAtk": 60,
+      "spDef": 120,
+      "speed": 40
+    },
+    "abilities": [
+      "color-change",
+      "protean"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 353,
+    "name": "어둠대신",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 75,
+      "def": 35,
+      "spAtk": 63,
+      "spDef": 33,
+      "speed": 45
+    },
+    "abilities": [
+      "insomnia",
+      "frisk",
+      "cursed-body"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 354,
+    "name": "다크펫",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 115,
+      "def": 65,
+      "spAtk": 83,
+      "spDef": 63,
+      "speed": 65
+    },
+    "abilities": [
+      "insomnia",
+      "frisk",
+      "cursed-body"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 355,
+    "name": "해골몽",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 40,
+      "def": 90,
+      "spAtk": 30,
+      "spDef": 90,
+      "speed": 25
+    },
+    "abilities": [
+      "levitate",
+      "frisk"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 356,
+    "name": "미라몽",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 70,
+      "def": 130,
+      "spAtk": 60,
+      "spDef": 130,
+      "speed": 25
+    },
+    "abilities": [
+      "pressure",
+      "frisk"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 357,
+    "name": "트로피우스",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 99,
+      "atk": 68,
+      "def": 83,
+      "spAtk": 72,
+      "spDef": 87,
+      "speed": 51
+    },
+    "abilities": [
+      "chlorophyll",
+      "solar-power",
+      "harvest"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 358,
+    "name": "치렁",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 50,
+      "def": 80,
+      "spAtk": 95,
+      "spDef": 90,
+      "speed": 65
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 359,
+    "name": "앱솔",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 130,
+      "def": 60,
+      "spAtk": 75,
+      "spDef": 60,
+      "speed": 75
+    },
+    "abilities": [
+      "pressure",
+      "super-luck",
+      "justified"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 360,
+    "name": "마자",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 23,
+      "def": 48,
+      "spAtk": 23,
+      "spDef": 48,
+      "speed": 23
+    },
+    "abilities": [
+      "shadow-tag",
+      "telepathy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 361,
+    "name": "눈꼬마",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 50,
+      "spAtk": 50,
+      "spDef": 50,
+      "speed": 50
+    },
+    "abilities": [
+      "inner-focus",
+      "ice-body",
+      "moody"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 362,
+    "name": "얼음귀신",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spAtk": 80,
+      "spDef": 80,
+      "speed": 80
+    },
+    "abilities": [
+      "inner-focus",
+      "ice-body",
+      "moody"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 363,
+    "name": "대굴레오",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 40,
+      "def": 50,
+      "spAtk": 55,
+      "spDef": 50,
+      "speed": 25
+    },
+    "abilities": [
+      "thick-fat",
+      "ice-body",
+      "oblivious"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 364,
+    "name": "씨레오",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 70,
+      "spAtk": 75,
+      "spDef": 70,
+      "speed": 45
+    },
+    "abilities": [
+      "thick-fat",
+      "ice-body",
+      "oblivious"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 365,
+    "name": "씨카이저",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 80,
+      "def": 90,
+      "spAtk": 95,
+      "spDef": 90,
+      "speed": 65
+    },
+    "abilities": [
+      "thick-fat",
+      "ice-body",
+      "oblivious"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 366,
+    "name": "진주몽",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 64,
+      "def": 85,
+      "spAtk": 74,
+      "spDef": 55,
+      "speed": 32
+    },
+    "abilities": [
+      "shell-armor",
+      "rattled"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 367,
+    "name": "헌테일",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 104,
+      "def": 105,
+      "spAtk": 94,
+      "spDef": 75,
+      "speed": 52
+    },
+    "abilities": [
+      "swift-swim",
+      "water-veil"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 368,
+    "name": "분홍장이",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 84,
+      "def": 105,
+      "spAtk": 114,
+      "spDef": 75,
+      "speed": 52
+    },
+    "abilities": [
+      "swift-swim",
+      "hydration"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 369,
+    "name": "시라칸",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 90,
+      "def": 130,
+      "spAtk": 45,
+      "spDef": 65,
+      "speed": 55
+    },
+    "abilities": [
+      "swift-swim",
+      "rock-head",
+      "sturdy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 370,
+    "name": "사랑동이",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 43,
+      "atk": 30,
+      "def": 55,
+      "spAtk": 40,
+      "spDef": 65,
+      "speed": 97
+    },
+    "abilities": [
+      "swift-swim",
+      "hydration"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 371,
+    "name": "아공이",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 75,
+      "def": 60,
+      "spAtk": 40,
+      "spDef": 30,
+      "speed": 50
+    },
+    "abilities": [
+      "rock-head",
+      "sheer-force"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 372,
+    "name": "쉘곤",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 95,
+      "def": 100,
+      "spAtk": 60,
+      "spDef": 50,
+      "speed": 50
+    },
+    "abilities": [
+      "rock-head",
+      "overcoat"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 373,
+    "name": "보만다",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 135,
+      "def": 80,
+      "spAtk": 110,
+      "spDef": 80,
+      "speed": 100
+    },
+    "abilities": [
+      "intimidate",
+      "moxie"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 374,
+    "name": "메탕",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 80,
+      "spAtk": 35,
+      "spDef": 60,
+      "speed": 30
+    },
+    "abilities": [
+      "clear-body",
+      "light-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 375,
+    "name": "메탕구",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 75,
+      "def": 100,
+      "spAtk": 55,
+      "spDef": 80,
+      "speed": 50
+    },
+    "abilities": [
+      "clear-body",
+      "light-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 376,
+    "name": "메타그로스",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 135,
+      "def": 130,
+      "spAtk": 95,
+      "spDef": 90,
+      "speed": 70
+    },
+    "abilities": [
+      "clear-body",
+      "light-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 377,
+    "name": "레지락",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 200,
+      "spAtk": 50,
+      "spDef": 100,
+      "speed": 50
+    },
+    "abilities": [
+      "clear-body",
+      "sturdy"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 378,
+    "name": "레지아이스",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 50,
+      "def": 100,
+      "spAtk": 100,
+      "spDef": 200,
+      "speed": 50
+    },
+    "abilities": [
+      "clear-body",
+      "ice-body"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 379,
+    "name": "레지스틸",
+    "types": [
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 75,
+      "def": 150,
+      "spAtk": 75,
+      "spDef": 150,
+      "speed": 50
+    },
+    "abilities": [
+      "clear-body",
+      "light-metal"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 380,
+    "name": "라티아스",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 90,
+      "spAtk": 110,
+      "spDef": 130,
+      "speed": 110
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 381,
+    "name": "라티오스",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 90,
+      "def": 80,
+      "spAtk": 130,
+      "spDef": 110,
+      "speed": 110
+    },
+    "abilities": [
+      "levitate"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 382,
+    "name": "가이오가",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 90,
+      "spAtk": 150,
+      "spDef": 140,
+      "speed": 90
+    },
+    "abilities": [
+      "drizzle"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 383,
+    "name": "그란돈",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 150,
+      "def": 140,
+      "spAtk": 100,
+      "spDef": 90,
+      "speed": 90
+    },
+    "abilities": [
+      "drought"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 384,
+    "name": "레쿠쟈",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 150,
+      "def": 90,
+      "spAtk": 150,
+      "spDef": 90,
+      "speed": 95
+    },
+    "abilities": [
+      "air-lock"
+    ],
+    "gimmickFlags": {
+      "canMega": true,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 385,
+    "name": "지라치",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spAtk": 100,
+      "spDef": 100,
+      "speed": 100
+    },
+    "abilities": [
+      "serene-grace"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  },
+  {
+    "id": 386,
+    "name": "테오키스",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 150,
+      "def": 50,
+      "spAtk": 150,
+      "spDef": 50,
+      "speed": 150
+    },
+    "abilities": [
+      "pressure"
+    ],
+    "gimmickFlags": {
+      "canMega": false,
+      "canTerastal": true,
+      "canDynamax": true,
+      "canGigantamax": false,
+      "canZAttack": true
+    }
+  }
+]
