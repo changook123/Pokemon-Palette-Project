@@ -6,7 +6,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-
+git rm -r --cached .
 # Visual Studio / VS Code
 .vs/
 .vscode/

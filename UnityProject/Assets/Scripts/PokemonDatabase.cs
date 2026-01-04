@@ -62,4 +62,20 @@ public class PokemonDatabase : MonoBehaviour
         }
         return null;
     }
+
+    // [추가됨] 이름이 포함된 '모든' 포켓몬을 리스트로 반환하는 함수
+    public List<PokemonData> FindAllPokemon(string name)
+    {
+        List<PokemonData> results = new List<PokemonData>();
+        
+        foreach (var pokemon in pokemonList)
+        {
+            // "리자몽"을 검색하면 "리자몽", "리자몽 (메가진화)" 등이 모두 포함됨
+            if (pokemon.name.Contains(name)) 
+            {
+                results.Add(pokemon);
+            }
+        }
+        return results;
+    }
 }
